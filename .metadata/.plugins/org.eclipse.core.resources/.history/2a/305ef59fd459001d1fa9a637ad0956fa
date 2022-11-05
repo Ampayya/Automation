@@ -1,0 +1,31 @@
+package orangehrm_Test;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.annotations.Test;
+
+public class Login_Text extends BaseTest{
+	@Test
+	public void logInTest()
+	{
+		WebElement usernameElement=driver.findElement(By.id("txtUsername")).sendkeys("Ampaiah_AP");
+		usernameElement.click();
+		
+		WebElement passwordElement=driver.findElement(By.id("txtPassword")).sendkeys("AP_9652@.com");
+		passwordElement.click();
+		
+		WebElement loginElement=driver.findElement(By.id("btnLogin"));
+		loginElement.click();
+		
+		WebElement welcomeElement=driver.findElement(By.id("welcome"));
+		welcomeElement.click();
+		
+		WebElement logoutElement=driver.findElement(By.linkText("Logout"));
+		logoutElement.click();
+		
+		//driver.close();
+		
+		
+	}
+
+}

@@ -1,0 +1,5 @@
+package logger_log4j;
+
+public class Log4j_properties {
+
+}

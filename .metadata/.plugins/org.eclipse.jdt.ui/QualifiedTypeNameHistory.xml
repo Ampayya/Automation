@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
+<fullyQualifiedTypeName name="com.JavaBasic.MouseHover"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Alert"/>
+<fullyQualifiedTypeName name="okhttp3.internal.connection.RouteSelector.Selection"/>
+<fullyQualifiedTypeName name="com.google.common.collect.Table.Cell"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.TakesScreenshot"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeMethod"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.JavascriptExecutor"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="org.apache.log4j.PropertyConfigurator"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFWorkbook"/>
+<fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFSheet"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Row"/>
+<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Cell"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
+<fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="orangeHRM.OHRM_LoginTest"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="tsrtc_Headerblock.Headerblock_links"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+</qualifiedTypeNameHistroy>

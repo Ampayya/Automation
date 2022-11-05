@@ -1,0 +1,12 @@
+package orangehrm_Test;
+
+import org.testng.annotations.Test;
+
+public class Login_TesT extends BaseTest {
+	@Test
+	public void logInTest()
+	{
+		driver.find
+	}
+
+}

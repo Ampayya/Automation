@@ -1,0 +1,31 @@
+package binghomepage;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Actual_Expected {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		WebDriver driver;
+		System.setProperty("webdriver.chrome.driver","./DriverFiles/chromedriver.exe");
+		driver=new ChromeDriver();
+		driver.get("https://bing.com");
+		
+		String actual_binghomepage=driver.getTitle();
+		System.out.println("bing home page title"+actual_binghomepage);
+		
+		String expected_binghomepage="bing";
+		System.out.println("expectedbinghomepage"+expected_binghomepage);
+		
+		if(actual_binghomepage.equals(expected_binghomepage))
+		{
+			System.out.println("home page is matched-pass");
+			
+		}
+		System.out.println("home page is not mached-fail");
+
+	}
+
+}

@@ -1,0 +1,1 @@
+<suite name="orangeHRMApplication">  <test name="LoginTest">     <classes>       <class name="orangehrm__Test.Login_Text"/>     </classes>  </test></suite>
