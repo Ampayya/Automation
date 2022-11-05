@@ -1,0 +1,9 @@
+
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="orangehrm_Test.Login_Text"/>
+      <class name="com.BaseTest.Automation.AppTest"/>
+    </classes>
+  </test> 
+</suite> 
